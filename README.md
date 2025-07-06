@@ -2,6 +2,10 @@
 
 ## 🚀 About Me
 
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
+
 I'm a passionate developer who loves creating innovative solutions and contributing to the open-source community. Currently exploring the intersection of modern web technologies and user experience design.
 
 - 🔭 **Currently working on:** Building scalable web applications, mobile apps with Flutter, and exploring cloud-native architectures
@@ -47,10 +51,6 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zzzzenzephyr&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <div align="center">
