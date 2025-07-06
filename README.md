@@ -49,7 +49,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
   <img src="https://komarev.com/ghpvc/?username=zzzzenzephyr&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
