@@ -1,18 +1,18 @@
 # Hey there! 👋 I'm Zephyr
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
 I'm a passionate developer who loves creating innovative solutions and contributing to the open-source community. Currently exploring the intersection of modern web technologies and user experience design.
 
-- 🔭 **Currently working on:** Building scalable web applications and exploring cloud-native architectures
-- 🌱 **Learning:** Advanced TypeScript, Kubernetes, and modern DevOps practices
-- 👯 **Looking to collaborate on:** Open source projects, web applications, and developer tools
-- 💬 **Ask me about:** JavaScript, React, Node.js, Python, and software architecture
-- ⚡ **Fun fact:** I debug with console.log and I'm not ashamed of it! 
+- 🔭 **Currently working on:** Building scalable web applications, mobile apps with Flutter, and exploring cloud-native architectures
+- 🌱 **Learning:** Advanced TypeScript, Dart programming, Flutter development, Kubernetes, and modern DevOps practices
+- 👯 **Looking to collaborate on:** Open source projects, web applications, mobile apps, Flutter projects, and developer tools
+- 💬 **Ask me about:** JavaScript, React, Node.js, Python, Dart, Flutter, mobile development, and software architecture
+- ⚡ **Fun fact:** I debug with console.log and print() statements, and I'm not ashamed of it! 
 
 ## 🛠️ Tech Stack
 
@@ -23,6 +23,8 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -43,17 +45,6 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzzenzephyr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-
 </div>
 
 ---
